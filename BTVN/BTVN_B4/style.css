@@ -23,8 +23,16 @@ body{
     gap: 20px;
 }
 
+.box{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 16px 0 16px;
+    padding: 20px 20px 20px 20px;
+}
+
 .box {
-    box-shadow: 0 4px 12px rgba(0.1,0.1,0.1,0.1);
+    box-shadow: 0 4px 12px gray;
     display: flex;
     justify-content: center;
     padding: 20px 0 0 0;
