@@ -1,0 +1,29 @@
+.nvu .viec2:nth-child(2){
+    font-weight: bold;
+    color: green;
+    background-color: lightgray;
+}
+
+.nvu .viec4:nth-child(4){
+    font-weight: bold;
+    color: green;
+    background-color: lightgray;
+
+}
+
+.ghichu p{
+    color: black;
+}
+
+p{
+    color: red;
+}
+
+.bang .hang1{
+    font-weight: bold;
+    background-color:#FFE0B2;
+}
+
+.bang .hang4{
+    font-weight: bold;
+}
